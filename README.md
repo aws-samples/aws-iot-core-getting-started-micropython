@@ -1,11 +1,6 @@
-## My Project
+## Using MicroPython to get started with AWS IoT Core
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository contains the code for the Using MicroPython to get started with AWS IoT Core blog post.
 
 ## Security
 
